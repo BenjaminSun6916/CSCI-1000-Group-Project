@@ -1,1 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>who am i?</title>
+         
+         
+    <!-- main page/aesthetic value stuff -->   
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+  
+    <div class="post">
+    <div class="card">
+    
+    <center>
+      <h2>Card title</h2>
+      <p>Card content</p>
+      
+      
+    <p>paragraph here + a link thing <a href="https://neocities.org">link in question</a>.</p>
 
+    <p>Here's how you can make <strong>bold uses strong</strong> and <em>italic uses em</em>.</p>
+
+    <p>Here's how you can add an image:</p>
+    <img src="/neocities.png">
+
+    <p>Here's how to make a list:</p>
+
+    <ul>
+      <li>First thing</li>
+      <li>Second thing</li>
+      <li>Third thing</li>
+    </ul>
+    
+    </center>
+  
+    
+    </div>
+  </div>
+
+  </body>
+</html>
